@@ -1,1 +1,1 @@
-No license
+git remote add origin git@github.com:ztxforever/learn.git
